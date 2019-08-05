@@ -4,7 +4,9 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme" android:name="android.app.Application" android:debuggable="true">
+    <activity android:label="Add new movie" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.AddMovie" />
     <activity android:label="Add new series" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.AddSeries" />
+    <activity android:label="Edit movie" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.EditMovie" />
     <activity android:label="Edit series" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.EditSeries" />
     <activity android:label="Download Tracker" android:noHistory="true" android:name="md55e15b19a563c73006faeedf61d543dbd.LoadingActivity">
       <intent-filter>

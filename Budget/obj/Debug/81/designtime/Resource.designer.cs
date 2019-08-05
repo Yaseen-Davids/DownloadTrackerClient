@@ -2245,6 +2245,18 @@ namespace Budget
 			// aapt resource value: 0x7F010004
 			public const int baseline_edit_24 = 2130771972;
 			
+			// aapt resource value: 0x7F010005
+			public const int baseline_local_movies_24 = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int baseline_movie_24 = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int baseline_music_video_24 = 2130771975;
+			
+			// aapt resource value: 0x7F010008
+			public const int button_round = 2130771976;
+			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
 			
@@ -2263,17 +2275,8 @@ namespace Budget
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010005
-			public const int ic_dashboard_black_24dp = 2130771973;
-			
-			// aapt resource value: 0x7F010006
-			public const int ic_home_black_24dp = 2130771974;
-			
-			// aapt resource value: 0x7F010007
-			public const int ic_launcher_background = 2130771975;
-			
-			// aapt resource value: 0x7F010008
-			public const int ic_notifications_black_24dp = 2130771976;
+			// aapt resource value: 0x7F010009
+			public const int ic_launcher_background = 2130771977;
 			
 			// aapt resource value: 0x7F09005C
 			public const int navigation_empty_icon = 2131296348;
@@ -2396,6 +2399,9 @@ namespace Budget
 			// aapt resource value: 0x7F0C0015
 			public const int add = 2131492885;
 			
+			// aapt resource value: 0x7F020006
+			public const int add_movies_button = 2130837510;
+			
 			// aapt resource value: 0x7F020005
 			public const int add_series_btn = 2130837509;
 			
@@ -2420,11 +2426,17 @@ namespace Budget
 			// aapt resource value: 0x7F0C001C
 			public const int cancel_action = 2131492892;
 			
-			// aapt resource value: 0x7F020015
-			public const int cancel_edit_button = 2130837525;
+			// aapt resource value: 0x7F020025
+			public const int cancel_edit_button = 2130837541;
+			
+			// aapt resource value: 0x7F020018
+			public const int cancel_edit_movie_button = 2130837528;
+			
+			// aapt resource value: 0x7F020014
+			public const int cancel_new_button = 2130837524;
 			
 			// aapt resource value: 0x7F020009
-			public const int cancel_new_button = 2130837513;
+			public const int cancel_new_movie_button = 2130837513;
 			
 			// aapt resource value: 0x7F0C001D
 			public const int center = 2131492893;
@@ -2456,8 +2468,11 @@ namespace Budget
 			// aapt resource value: 0x7F0C0026
 			public const int default_activity_button = 2131492902;
 			
-			// aapt resource value: 0x7F020017
-			public const int delete_series_btn = 2130837527;
+			// aapt resource value: 0x7F020020
+			public const int delete_movie_btn = 2130837536;
+			
+			// aapt resource value: 0x7F020027
+			public const int delete_series_btn = 2130837543;
 			
 			// aapt resource value: 0x7F0C0027
 			public const int design_bottom_sheet = 2131492903;
@@ -2474,20 +2489,23 @@ namespace Budget
 			// aapt resource value: 0x7F0C002B
 			public const int design_navigation_view = 2131492907;
 			
+			// aapt resource value: 0x7F020022
+			public const int edit_movies_btn = 2130837538;
+			
 			// aapt resource value: 0x7F0C002C
 			public const int edit_query = 2131492908;
 			
-			// aapt resource value: 0x7F020021
-			public const int edit_series_btn = 2130837537;
+			// aapt resource value: 0x7F020031
+			public const int edit_series_btn = 2130837553;
 			
-			// aapt resource value: 0x7F020014
-			public const int edit_series_episode = 2130837524;
+			// aapt resource value: 0x7F020024
+			public const int edit_series_episode = 2130837540;
 			
-			// aapt resource value: 0x7F020013
-			public const int edit_series_season = 2130837523;
+			// aapt resource value: 0x7F020023
+			public const int edit_series_season = 2130837539;
 			
-			// aapt resource value: 0x7F020012
-			public const int edit_series_title = 2130837522;
+			// aapt resource value: 0x7F020017
+			public const int edit_series_title = 2130837527;
 			
 			// aapt resource value: 0x7F0C002D
 			public const int end = 2131492909;
@@ -2552,11 +2570,14 @@ namespace Budget
 			// aapt resource value: 0x7F0C0041
 			public const int list_item = 2131492929;
 			
-			// aapt resource value: 0x7F020011
-			public const int LoadingSplash = 2130837521;
+			// aapt resource value: 0x7F020016
+			public const int LoadingSplash = 2130837526;
 			
 			// aapt resource value: 0x7F020003
 			public const int loading_data = 2130837507;
+			
+			// aapt resource value: 0x7F020004
+			public const int main_layout = 2130837508;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
@@ -2570,29 +2591,38 @@ namespace Budget
 			// aapt resource value: 0x7F0C0045
 			public const int mini = 2131492933;
 			
+			// aapt resource value: 0x7F020021
+			public const int movies_name = 2130837537;
+			
 			// aapt resource value: 0x7F0C0046
 			public const int multiply = 2131492934;
+			
+			// aapt resource value: 0x7F020007
+			public const int navigation = 2130837511;
 			
 			// aapt resource value: 0x7F0C0047
 			public const int navigation_header_container = 2131492935;
 			
-			// aapt resource value: 0x7F020023
-			public const int navigation_movies = 2130837539;
+			// aapt resource value: 0x7F020033
+			public const int navigation_movies = 2130837555;
 			
-			// aapt resource value: 0x7F020024
-			public const int navigation_music = 2130837540;
+			// aapt resource value: 0x7F020034
+			public const int navigation_music = 2130837556;
 			
-			// aapt resource value: 0x7F020022
-			public const int navigation_series = 2130837538;
+			// aapt resource value: 0x7F020032
+			public const int navigation_series = 2130837554;
 			
 			// aapt resource value: 0x7F020008
-			public const int new_series_episode = 2130837512;
+			public const int new_movie_title = 2130837512;
 			
-			// aapt resource value: 0x7F020007
-			public const int new_series_season = 2130837511;
+			// aapt resource value: 0x7F020013
+			public const int new_series_episode = 2130837523;
 			
-			// aapt resource value: 0x7F020006
-			public const int new_series_title = 2130837510;
+			// aapt resource value: 0x7F020012
+			public const int new_series_season = 2130837522;
+			
+			// aapt resource value: 0x7F020011
+			public const int new_series_title = 2130837521;
 			
 			// aapt resource value: 0x7F0C0048
 			public const int none = 2131492936;
@@ -2696,17 +2726,14 @@ namespace Budget
 			// aapt resource value: 0x7F0C0069
 			public const int select_dialog_listview = 2131492969;
 			
-			// aapt resource value: 0x7F020020
-			public const int series_episode = 2130837536;
+			// aapt resource value: 0x7F020030
+			public const int series_episode = 2130837552;
 			
-			// aapt resource value: 0x7F020004
-			public const int series_main_layout = 2130837508;
+			// aapt resource value: 0x7F020028
+			public const int series_name = 2130837544;
 			
-			// aapt resource value: 0x7F020018
-			public const int series_name = 2130837528;
-			
-			// aapt resource value: 0x7F020019
-			public const int series_season = 2130837529;
+			// aapt resource value: 0x7F020029
+			public const int series_season = 2130837545;
 			
 			// aapt resource value: 0x7F0C006A
 			public const int shortcut = 2131492970;
@@ -2747,11 +2774,17 @@ namespace Budget
 			// aapt resource value: 0x7F0C0076
 			public const int submit_area = 2131492982;
 			
-			// aapt resource value: 0x7F020016
-			public const int submit_button = 2130837526;
+			// aapt resource value: 0x7F020026
+			public const int submit_button = 2130837542;
+			
+			// aapt resource value: 0x7F020019
+			public const int submit_edit_movie_btn = 2130837529;
+			
+			// aapt resource value: 0x7F020015
+			public const int submit_new_button = 2130837525;
 			
 			// aapt resource value: 0x7F020010
-			public const int submit_new_button = 2130837520;
+			public const int submit_new_movie_button = 2130837520;
 			
 			// aapt resource value: 0x7F0C0077
 			public const int tabMode = 2131492983;
@@ -2969,7 +3002,10 @@ namespace Budget
 			public const int activity_main = 2130903042;
 			
 			// aapt resource value: 0x7F030003
-			public const int AddNewSeries = 2130903043;
+			public const int AddNewMovie = 2130903043;
+			
+			// aapt resource value: 0x7F030004
+			public const int AddNewSeries = 2130903044;
 			
 			// aapt resource value: 0x7F0F001B
 			public const int design_bottom_navigation_item = 2131689499;
@@ -3013,8 +3049,14 @@ namespace Budget
 			// aapt resource value: 0x7F0F0028
 			public const int design_text_input_password_icon = 2131689512;
 			
-			// aapt resource value: 0x7F030004
-			public const int loading_screen = 2130903044;
+			// aapt resource value: 0x7F030005
+			public const int loading_screen = 2130903045;
+			
+			// aapt resource value: 0x7F030006
+			public const int movies_edit = 2130903046;
+			
+			// aapt resource value: 0x7F030007
+			public const int Movies_layout = 2130903047;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;
@@ -3070,11 +3112,11 @@ namespace Budget
 			// aapt resource value: 0x7F0F003A
 			public const int select_dialog_singlechoice_material = 2131689530;
 			
-			// aapt resource value: 0x7F030005
-			public const int series_edit = 2130903045;
+			// aapt resource value: 0x7F030008
+			public const int series_edit = 2130903048;
 			
-			// aapt resource value: 0x7F030006
-			public const int Series_layout = 2130903046;
+			// aapt resource value: 0x7F030009
+			public const int Series_layout = 2130903049;
 			
 			// aapt resource value: 0x7F0F003B
 			public const int support_simple_spinner_dropdown_item = 2131689531;

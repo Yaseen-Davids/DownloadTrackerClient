@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Watch next</string>
+    <string name="title_series">Series</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_music">Music</string>
+    <string name="title_games">Games</string>
+</resources>

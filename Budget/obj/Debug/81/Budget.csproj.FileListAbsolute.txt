@@ -1,0 +1,369 @@
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\Budget.nuget.stamp
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res.flag
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\Budget.dll
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\Budget.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\Budget.Budget.apk
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\Budget.Budget-Signed.apk
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\Budget.csproj.CoreCompileInputs.cache
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\Budget.dll
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\Budget.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\bin\Budget.Budget.apk
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\values\colors.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\values\dimens.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\values\strings.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\values\styles.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\menu\navigation.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\series_layout.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\loading_screen.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\series_edit.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\drawable\baseline_edit_24.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\drawable\baseline_add_24.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\addnewseries.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\drawable\baseline_delete_24.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\drawable\button_round.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\movies_layout.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\drawable\baseline_local_movies_24.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\drawable\baseline_movie_24.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\drawable\baseline_music_video_24.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\movies_edit.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\addnewmovie.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\R.cs.flag
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\R.txt
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\uploadflags.txt
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\music_layout.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\music_edit.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\res\layout\addnewmusic.xml
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\Budget.csprojAssemblyReference.cache
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\Mono.Android.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\mscorlib.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Core.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Net.Http.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Xml.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Data.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Numerics.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Transactions.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.IO.Compression.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Web.Services.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\bin\Debug\Mono.Security.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\Budget.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\Microsoft.CSharp.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\Budget.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\Microsoft.CSharp.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\Yaseen\source\repos\Budget\Budget\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\bin\Debug\Budget.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\bin\Debug\Budget.pdb
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\bin\Debug\Budget.Budget.apk
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\bin\Debug\Budget.Budget-Signed.apk
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\build.props
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\adb.props
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\resourcepaths.cache
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res.flag
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\f406565a2684ace8d776a138e43562ecf576691e.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\cf2587ca38a0aee4c31b33d1f59ee59c20842443.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\2cb00f5bab1847422f88b9dc4ace4e2cde8cf95f.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\487cd4758f7ba46cb822a25de017f3a6671c6255.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\cc712ff02a3fd73083758a446cbf4e115a36633c.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\a537e4818a5cc2d36c51706f2f9f4af3d684275c.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\f406565a2684ace8d776a138e43562ecf576691e.flata
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\cf2587ca38a0aee4c31b33d1f59ee59c20842443.flata
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\2cb00f5bab1847422f88b9dc4ace4e2cde8cf95f.flata
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\487cd4758f7ba46cb822a25de017f3a6671c6255.flata
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\cc712ff02a3fd73083758a446cbf4e115a36633c.flata
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\a537e4818a5cc2d36c51706f2f9f4af3d684275c.flata
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\flata\compiled.flata
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\R.txt
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\R.cs.flag
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\Budget.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\Budget.pdb
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\bin\Budget.Budget.apk
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\values\colors.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\values\dimens.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\values\strings.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\values\styles.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\menu\navigation.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\series_layout.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\loading_screen.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\series_edit.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\baseline_edit_24.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\baseline_add_24.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\addnewseries.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\baseline_delete_24.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\button_round.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\movies_layout.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\baseline_local_movies_24.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\baseline_movie_24.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\baseline_music_video_24.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\movies_edit.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\addnewmovie.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\music_layout.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\music_edit.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\addnewmusic.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\uploadflags.txt
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\resolvedassemblies.hash
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Budget.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Java.Interop.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Microsoft.CSharp.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Mono.Android.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\mscorlib.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Newtonsoft.Json.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Core.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Net.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Net.Http.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Runtime.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Xml.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Drawing.Common.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\netstandard.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Data.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Numerics.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Transactions.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.IO.Compression.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.ComponentModel.Composition.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Web.Services.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\System.Xml.Linq.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Mono.Security.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Budget.pdb
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\link.flag
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Budget.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Budget.pdb
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Microsoft.CSharp.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Mono.Security.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\netstandard.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Data.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Drawing.Common.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.IO.Compression.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Net.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Numerics.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Runtime.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Transactions.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Web.Services.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\System.Xml.Linq.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\typemap.jm.arm64-v8a.s
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\typemap.jm.armeabi-v7a.s
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\typemap.jm.x86.s
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\typemap.jm.x86_64.s
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\typemap.mj.arm64-v8a.s
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\typemap.mj.armeabi-v7a.s
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\typemap.mj.x86.s
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\typemap.mj.x86_64.s
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\MonoRuntimeProvider.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\assets\machine.config
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\bin\mono.android.jar
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\static.flag
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\buildid.txt
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\v7\recyclerview\R.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\v7\appcompat\R.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\transition\R.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\mediacompat\R.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\design\R.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\android\support\compat\R.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\AddMovie.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\AddMusic.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\AddSeries.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\EditMovie.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\EditMusic.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\EditSeries.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\LoadingActivity.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\MainActivity.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\bin\packaged_resources
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\budget\budget\R.java
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\bin\classes.dex
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_ConvertCustomView.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_ConvertResourcesCases.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_CopyPdbFiles.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\Budget.csprojAssemblyReference.cache
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\baseline_cloud_download_24.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\drawable\baseline_remove_red_eye_24.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\res\layout\seriesmainlayout.xml
+C:\Users\yasee\Documents\Code\DownloadTracker 23-08-19\Budget\Budget\obj\Debug\81\android\src\md55e15b19a563c73006faeedf61d543dbd\SeriesMain.java

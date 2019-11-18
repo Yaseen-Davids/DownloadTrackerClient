@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Budget.Budget">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme" android:name="android.app.Application" android:debuggable="true">
+    <activity android:label="Add new movie" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.AddMovie" />
+    <activity android:label="Add new song" android:name="md55e15b19a563c73006faeedf61d543dbd.AddMusic" />
+    <activity android:label="Add new series" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.AddSeries" />
+    <activity android:label="Edit movie" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.EditMovie" />
+    <activity android:label="Edit song" android:name="md55e15b19a563c73006faeedf61d543dbd.EditMusic" />
+    <activity android:label="Edit series" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.EditSeries" />
+    <activity android:label="@string/app_name" android:noHistory="true" android:name="md55e15b19a563c73006faeedf61d543dbd.LoadingActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="md55e15b19a563c73006faeedf61d543dbd.MainActivity" />
+    <activity android:label="Series Info" android:name="md55e15b19a563c73006faeedf61d543dbd.SeriesMain" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="Budget.Budget.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Budget.Budget" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
